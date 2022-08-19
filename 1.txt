@@ -1,0 +1,3 @@
+hi this is 1 st file to deploy
+hi my name is jenkins
+i used jenkins for deployment
